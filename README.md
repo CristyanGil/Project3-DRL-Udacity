@@ -6,7 +6,7 @@
 
 ## Project Details
 
-For this project, I will train two agents to solve the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment, that was developed by [Unity]( https://unity3d.com/es).
+For this project, I will train two agents to solve the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, that was developed by [Unity]( https://unity3d.com/es).
 
 ### Environment Description
 
